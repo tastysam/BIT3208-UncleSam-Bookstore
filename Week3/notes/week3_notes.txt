@@ -1,0 +1,28 @@
+PROJECT: Uncle Sam's Bookstore Management System
+STUDENT: Samuel Muthee Wainaina
+REG NO: BBIT/2024/55411
+UNIT: BIT3208 - Advanced Web Design & Development
+
+WEEK: Week 3
+TITLE: Frontend Interaction and Backend Foundations
+
+ACTIVITIES COMPLETED:
+- Created Week 3 folder structure
+- Copied project files from Week 2
+- Built Login page with HTML and CSS
+- Built Registration page with HTML and CSS
+- Created global style.css stylesheet
+- Added JavaScript form validation on login
+- Added JavaScript register validation
+- Built password strength checker
+- Practiced PHP variables and output
+- Built dynamic user input form using GET method
+
+TOOLS USED:
+- VS Code
+- PHP
+- JavaScript
+- HTML & CSS
+- Google Chrome
+
+STATUS: Completed
