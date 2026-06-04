@@ -1,0 +1,26 @@
+PROJECT: Uncle Sam's Bookstore Management System
+STUDENT: Samuel Muthee Wainaina
+REG NO: BBIT/2024/55411
+UNIT: BIT3208 - Advanced Web Design & Development
+
+WEEK: Week 1
+TITLE: Installation and Testing of Local Development Environment
+
+ACTIVITIES COMPLETED:
+- Confirmed XAMPP installation with Apache and MySQL running
+- Tested localhost in browser successfully
+- Created project folder structure inside htdocs
+- Created index.php Hello World test page
+- Created unclesam_bookstore_db database in phpMyAdmin
+- Created db_connect.php and tested successful DB connection
+
+TOOLS USED:
+- XAMPP (Local Server)
+- VS Code (Code Editor)
+- phpMyAdmin (Database Management)
+- Google Chrome (Browser Testing)
+
+CHALLENGES:
+- None encountered
+
+STATUS: Completed
